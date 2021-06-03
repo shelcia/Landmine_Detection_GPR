@@ -1,5 +1,4 @@
-![landmine-detection](https://socialify.git.ci/shelcia/Landmine_Detection_GPR/image?font=Raleway&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
-
+![Landmine_Detection_GPR](https://socialify.git.ci/shelcia/Landmine_Detection_GPR/image?font=Raleway&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
 <div align="center">
   
